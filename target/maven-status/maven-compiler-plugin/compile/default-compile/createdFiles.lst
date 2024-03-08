@@ -1,0 +1,10 @@
+tech\getarrays\employeemanager\resource\ListaResource.class
+tech\getarrays\employeemanager\filter\JWTAuthorizationFilter.class
+tech\getarrays\employeemanager\exception\UserNotFoundException.class
+tech\getarrays\employeemanager\repo\CancionRepo.class
+tech\getarrays\employeemanager\model\User.class
+tech\getarrays\employeemanager\service\ListaService.class
+tech\getarrays\employeemanager\model\Cancion.class
+tech\getarrays\employeemanager\model\ListaReproduccion.class
+tech\getarrays\employeemanager\repo\ListaRepo.class
+tech\getarrays\employeemanager\resource\UserController.class
